@@ -1,0 +1,33 @@
+input{
+margin-left: 10px;
+margin-bottom: 5px;
+margin-right: 5px;
+}
+
+.postal{
+    padding: 5px;
+}
+.red{
+height: 300px;
+border: 2px;
+width: 300px;
+background-color: red;
+margin: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.postal{
+
+}
+.container1{
+    margin-left: 20px;
+}

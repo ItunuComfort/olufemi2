@@ -1,0 +1,43 @@
+ *{
+background-color:lightgray;
+ }
+ first{
+    color: dimgray;
+ }
+ em{
+    color: dimgray;
+ }
+ .first {
+    margin-left: 400px;
+ }
+ h1{
+    margin-left: 420px;
+ }
+ .set{
+    margin-left: 400px;
+    cursor: pointer;
+    
+    
+ }
+ a {
+    color: black;
+    text-decoration: none;
+ }
+ .cover{
+    margin-left: 700px;
+    text-decoration: underline;
+ }
+.linked{
+    margin-left: 50px;
+    text-decoration: underline;
+}
+.drib{
+    margin: 50px;
+    text-decoration: underline;
+}
+p:hover{
+background-color: rgba(245, 245, 245, 0.993);
+border: navajowhite;
+border-radius: 5px;
+height: 30px;
+}
