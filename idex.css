@@ -929,10 +929,10 @@ a:not([class]) {
     gap: clamp(2rem, 1.8447rem + .7767vi, 2.5rem);
 }
 .wide {
-    width: 50px;
+    width: 70px;
 }
 .big {
-    width: 29px;
+    width: 49px;
 }
 .small {
     width: 19px;
