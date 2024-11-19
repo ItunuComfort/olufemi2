@@ -6,8 +6,8 @@ body {
     min-height: 100vh;
     overscroll-behavior-y: none;
     margin: 0;
-    max-width: auto;
-    overflow-x: hidden;
+    max-width: 100%;
+    overflow-x: hidden !important;
     width: auto;
     min-width: auto;
 }
