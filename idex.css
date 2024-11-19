@@ -11,6 +11,11 @@ body {
     width: auto;
     min-width: auto;
 }
+@media screen and (max-width:767px) {
+html, body {
+	overflow: hidden;
+}
+}
 .bg-neutralOffWhite {
     --tw-bg-opacity: 1;
     background-color: hsl(0 0% 98% / var(--tw-bg-opacity));
