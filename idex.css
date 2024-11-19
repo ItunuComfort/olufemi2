@@ -931,10 +931,20 @@ a:not([class]) {
     gap: clamp(2rem, 1.8447rem + .7767vi, 2.5rem);
 }
 .wide {
-    width: 70px;
+    width: 30%;
 }
-.big {
-    width: 49px;
+.wid {
+    height: 10px;
+}
+.high {
+    height: 45px;
+    width: 250px;
+}
+.pad {
+padding-left: 110px;
+}
+::placeholder {
+    text-align: center;
 }
 
 
