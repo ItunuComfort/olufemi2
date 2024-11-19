@@ -928,7 +928,9 @@ a:not([class]) {
 .mobile\:gap-6 {
     gap: clamp(2rem, 1.8447rem + .7767vi, 2.5rem);
 }
-
+.wide {
+    width: 50px;
+}
 
 
 
