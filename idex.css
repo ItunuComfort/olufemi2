@@ -6,6 +6,8 @@ body {
     min-height: 100vh;
     overscroll-behavior-y: none;
     margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 .bg-neutralOffWhite {
     --tw-bg-opacity: 1;
@@ -933,10 +935,6 @@ a:not([class]) {
 }
 .big {
     width: 49px;
-}
-.small {
-    width: 19px;
-    height: 5px;
 }
 
 
