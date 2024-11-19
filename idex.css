@@ -931,7 +931,13 @@ a:not([class]) {
 .wide {
     width: 50px;
 }
-
+.big {
+    width: 29px;
+}
+.small {
+    width: 19px;
+    height: 5px;
+}
 
 
 
