@@ -1,5 +1,14 @@
+/* Default styles for all screen sizes */
 body {
-    color: #1c2022;
+  font-size: 16px;
+	min-width: auto;
+	overflow-x: hidden;
+	white-space: wrap;
+}
+/* Styles for screens bigger than 768px */
+@media screen and (min-width: 768px) {
+  body {
+     color: #1c2022;
     font-family: var(--font-heebo);
     font-size: clamp(1rem, .9612rem + .1942vi, 1.125rem);
     line-height: 1.5;
@@ -11,13 +20,7 @@ body {
     width: auto;
     min-width: auto;
 white-space: wrap;
-}
-@media screen and (max-width:767px) {
-html, body {
-	min-width: auto;
-	overflow-x: hidden;
-	white-space: wrap;
-}
+  }
 }
 .bg-neutralOffWhite {
     --tw-bg-opacity: 1;
