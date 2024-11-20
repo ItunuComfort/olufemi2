@@ -960,6 +960,12 @@ padding-left: 110px;
 ::placeholder {
     text-align: center;
 }
+.goes {
+	width: 50%;
+}
+span {
+	width: 50%;
+}
 
 
 
