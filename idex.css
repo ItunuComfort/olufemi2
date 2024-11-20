@@ -4,6 +4,7 @@ body {
 	min-width: auto;
 	overflow-x: hidden;
 	white-space: wrap;
+	width: 100%;
 }
 /* Styles for screens bigger than 768px */
 @media screen and (min-width: 768px) {
@@ -944,7 +945,7 @@ a:not([class]) {
     gap: clamp(2rem, 1.8447rem + .7767vi, 2.5rem);
 }
 .wide {
-    width: 30%;
+    width: 70%;
 }
 .wid {
     height: 10px;
