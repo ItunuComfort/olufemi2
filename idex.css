@@ -948,8 +948,9 @@ a:not([class]) {
     width: 70%;
 }
 .wid {
+	width:30%;
     height: 10px;
-	padding:50px;
+padding: 50px;
 }
 .high {
     height: 45px;
@@ -968,7 +969,7 @@ span {
 	width: 50%;
 }
 .comet {
-	width: 40%;
+	width: 200px;
 }
 
 
