@@ -949,6 +949,7 @@ a:not([class]) {
 }
 .wid {
     height: 10px;
+	padding:50px;
 }
 .high {
     height: 45px;
@@ -961,10 +962,13 @@ padding-left: 110px;
     text-align: center;
 }
 .goes {
-	width: 100px;
+	width: 50%;
 }
 span {
 	width: 50%;
+}
+.comet {
+	width: 40%;
 }
 
 
